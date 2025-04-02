@@ -1,6 +1,2 @@
-streamlit 
-playwright 
-requests
-fake_useragent 
-beautifulsoup4
+pip install streamlit playwright requests fake_useragent beautifulsoup4
 playwright install
