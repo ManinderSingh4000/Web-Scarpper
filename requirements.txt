@@ -3,4 +3,3 @@ playwright
 requests
 fake_useragent 
 beautifulsoup4
-playwright install
