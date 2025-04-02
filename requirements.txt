@@ -1,2 +1,6 @@
-pip install streamlit playwright requests fake_useragent beautifulsoup4
+ streamlit 
+playwright 
+requests
+fake_useragent 
+beautifulsoup4
 playwright install
