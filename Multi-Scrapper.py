@@ -6,7 +6,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 # Config
 NUM_WORKERS = 6
 URL_CSV = "All_OLX_Links.csv"
-OUTPUT_CSV = "olx_property_details_with_rent.csv"
+OUTPUT_CSV = "olx_property_details_with_rent_Added.csv"
 
 # Extractor Function
 def extract_listing_details(url):
